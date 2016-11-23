@@ -2,7 +2,7 @@
 #### Team Number
 Team 9
 #### Team Members
-Michael Sabella, KaChiLau
+Michael Sabella,  KaChi Lau
 #### Youtube video Link
 TODO - Add your team's unlisted youtube video link here.
 
